@@ -1,0 +1,25 @@
+{
+margin:0px;
+padding:0px;
+font-family:arial, helvetica, verdana;
+
+}
+body{
+	background: #C7F3E8;
+}
+h2,p{
+	margin: 15px;
+	padding: 10px;
+}
+.video{
+	background: #52FFB0;
+	width: 100%;
+	margin: 10px 10px;
+	float: left;	
+}
+.texto{
+	background: #FFFF52;
+	width: 40%;
+	margin: 10px 65px;
+	float: left;
+}
